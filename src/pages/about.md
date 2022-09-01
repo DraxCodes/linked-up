@@ -8,7 +8,7 @@ date: "01/09/2022"
       class="profile__img"
       width="128px"
       height="128px"
-      src="assets/profile.jpg"
+      src="/assets/profile.jpg"
       alt="Profile Image"
     />
 # About Me
